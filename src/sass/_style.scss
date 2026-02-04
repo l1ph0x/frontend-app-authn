@@ -215,7 +215,7 @@ $elevation-level-2-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.15);
 
 .institute-icon {
   @extend .mr-1;
-  @extend .text-gray;
+  @extend .text-muted;
 
   display: inline-block;
   margin-bottom: 0.25rem;
